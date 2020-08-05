@@ -10,20 +10,27 @@ body {
 
 .column1 {
   float: left;
+  text-align: center;
   width: 30%;
   background-color: cornsilk;
-  
+  border: 5px solid darkred;
+  margin-right: 35px;
 }
 
 .column2 {
   float: left;
+  text-align: center;
   width: 30%;
   background-color: honeydew;
+  border: 5px solid darkred;
+  margin-right: 35px;
 }
 
 .column3 {
   float: left;
+  text-align: center;
   width: 30%;
+  border: 5px solid darkred;
   background-color: darkgrey;
 }
 
