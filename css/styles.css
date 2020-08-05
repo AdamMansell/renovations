@@ -1,0 +1,33 @@
+body {
+  background-color: burlywood;
+}
+
+.title { 
+  font-family:"Copperplate Gothic Light"; 
+  font-size: 70px;
+  text-decoration: underline;
+}
+
+.column {
+  float: left;
+  width: 30%;
+}
+
+.before {
+  height: 250px;
+  width: 300px;
+}
+
+.during {
+  height: 250px;
+  width: 300px;
+}
+
+.after {
+  height: 250px;
+  width: 350px;
+}
+
+img {
+  border-width: 10px;
+}
