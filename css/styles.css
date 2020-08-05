@@ -8,9 +8,23 @@ body {
   text-decoration: underline;
 }
 
-.column {
+.column1 {
   float: left;
   width: 30%;
+  background-color: cornsilk;
+  
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  background-color: honeydew;
+}
+
+.column3 {
+  float: left;
+  width: 30%;
+  background-color: darkgrey;
 }
 
 .before {
